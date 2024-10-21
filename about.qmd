@@ -16,7 +16,7 @@ I have no experience of internship yet.
 
 # Competencies
 
-R, Quarto, Git, Python, Excel, SQL
+R, Quarto, Git, Excel, SQL
 
 # Hobbies
 
