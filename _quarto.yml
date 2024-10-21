@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "[Student/Group Full Name]'s Analytics Lab"
+  title: "Yigit Turkel's Analytics Lab"
   navbar:
+    background: "dark"
+    foreground: "light"
     search: true
     left:
       - text: Home

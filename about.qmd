@@ -3,28 +3,21 @@ title: "About Me"
 sidebar: false 
 ---
 
+Hello, my name is Yigit Turkel. I am a third year undergraduate student at Hacettepe Univercity. Department of Industrial Engineering.
+
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
-
-# Work Experience
-
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2022 - ongoing.
+-   Erasmus+ Exchange Student , Westsächsische Hochschule Zwickau, Germany, March 2024-August 2024.
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
-
-# Projects
+I have no experience of internship yet.
 
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, Excel, SQL
 
 # Hobbies
+
+Swimming, Riding bicycle, Football, Reading.
