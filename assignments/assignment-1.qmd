@@ -12,7 +12,27 @@ My first assignment has two parts.
 
 ## (a) TASK 1:
 
-In task1 I choose the video with Baykal Hafızoğlu
+In Task 1 I chose the video with Baykal Hafızoğlu and I am going to briefly summarize it right now.
+
+He is an highly skilled Industrial Engineer who studied his bachelor and master in Middle East Technical Univercity (METU) and PhD in Arizona State Univercity. After his PhD he chose to stay in USA and worked several companies. his projects are about operations research and software. Then he talked about his hobbies which are music, gaming, basketball, crossfit... And then we dived into OR and Analytics world, he explained what the descriptive, diagnostic, predictive and prescriptive analytics are. After that he said defining the problem is the most important thing and he explained some background informations about projects. Before finishing he accepted some questions from audiences.
+
+Questions regarding the video:
+
+1- How do you think the integration of data science will continue to transform the role of industrial engineers next decade?
+
+Answer: The integration of data science into industrial engineering will likely continue to evolve rapidly, especially the advancements in AI. Industrial engineers will need to develop expertise in areas like machine learning,data analysis etc.
+
+2- What is one key advantage of integrating data science into industrial engineering?
+
+A-) Reducing the need for technical skills
+
+B-) Eliminating the traditional engineering tools
+
+C-) Enhanching decision making through data driven insights
+
+D-) Limiting the scope of engineering problem
+
+Answer: C-) Enhanching decision making through data driven insights
 
 ## (b) TASK 2:
 
