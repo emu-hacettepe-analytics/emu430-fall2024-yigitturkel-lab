@@ -5,10 +5,12 @@ sidebar: false
 
 Hello, my name is Yigit Turkel. I am a third year undergraduate student at Hacettepe Univercity. Department of Industrial Engineering.
 
+[You can have a look at my resume](cv/my_cv)
+
 # Education
 
 -   B.S., Industrial Engineering, Hacettepe University, Turkey, 2022 - ongoing.
-    -   Erasmus+ Exchange Student , Westsächsische Hochschule Zwickau, Germany, March 2024-August 2024.
+-   Erasmus+ Exchange Student , Westsächsische Hochschule Zwickau, Germany, March 2024-August 2024.
 
 ## Internships
 

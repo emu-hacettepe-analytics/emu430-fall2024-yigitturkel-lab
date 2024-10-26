@@ -10,13 +10,15 @@ title: "Assignment 1"
 
 My first assignment has two parts.
 
-## (a)
+## (a) TASK 1:
 
-## (b) Question: Complete the following tasks. Be sure to include the R code used to generate these outputs.
+In task1 I choose the video with Baykal Hafızoğlu
+
+## (b) TASK 2:
 
 1-) Import the "polls_us_election_2016" data set from the dslabs package:
 
-```         
+``` 2
 > install.packages("dslabs")
 > library(dslabs) 
 > data("polls_us_election_2016")
@@ -93,15 +95,7 @@ In this solution ı first installed the dslabs library, if ı already have insta
 
 4-)Replace all NA values in the "polls_us_election_2016" data set as follows: For numeric columns, replace NA values with your birth year. For character or factor columns, replace NA values with your first name. store the modified data set as a new object:
 
-```         
- polls_us_election_2016_modified <- polls_us_election_2016 >  
- > birth_year <- 2003   
- > first_name <- "yigit"  >
- > polls_us_election_2016_modified[] <- lapply(polls_us_election_2016_modified, function(x) {     
- if (is.numeric(x)) { 
-  +         x[is.na(x)] <- birth_year 
-  +     } else { 
-  +         x[is.na(x)] <- first_name +     } 
-  +     return(x) 
-  + })
+``` 1
+
+  
 ```

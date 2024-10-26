@@ -214,8 +214,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <ul>
   <li><a href="#assignment-1" id="toc-assignment-1" class="nav-link active" data-scroll-target="#assignment-1">Assignment 1</a>
   <ul class="collapse">
-  <li><a href="#a" id="toc-a" class="nav-link" data-scroll-target="#a">(a)</a></li>
-  <li><a href="#b-question-complete-the-following-tasks.-be-sure-to-include-the-r-code-used-to-generate-these-outputs." id="toc-b-question-complete-the-following-tasks.-be-sure-to-include-the-r-code-used-to-generate-these-outputs." class="nav-link" data-scroll-target="#b-question-complete-the-following-tasks.-be-sure-to-include-the-r-code-used-to-generate-these-outputs.">(b) Question: Complete the following tasks. Be sure to include the R code used to generate these outputs.</a></li>
+  <li><a href="#a-task-1" id="toc-a-task-1" class="nav-link" data-scroll-target="#a-task-1">(a) TASK 1:</a></li>
+  <li><a href="#b-task-2" id="toc-b-task-2" class="nav-link" data-scroll-target="#b-task-2">(b) TASK 2:</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -255,11 +255,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 </div>
 <p>My first assignment has two parts.</p>
-<section id="a" class="level2">
-<h2 class="anchored" data-anchor-id="a">(a)</h2>
+<section id="a-task-1" class="level2">
+<h2 class="anchored" data-anchor-id="a-task-1">(a) TASK 1:</h2>
+<p>In task1 I choose the video with Baykal Hafızoğlu</p>
 </section>
-<section id="b-question-complete-the-following-tasks.-be-sure-to-include-the-r-code-used-to-generate-these-outputs." class="level2">
-<h2 class="anchored" data-anchor-id="b-question-complete-the-following-tasks.-be-sure-to-include-the-r-code-used-to-generate-these-outputs.">(b) Question: Complete the following tasks. Be sure to include the R code used to generate these outputs.</h2>
+<section id="b-task-2" class="level2">
+<h2 class="anchored" data-anchor-id="b-task-2">(b) TASK 2:</h2>
 <p>1-) Import the “polls_us_election_2016” data set from the dslabs package:</p>
 <pre><code>&gt; install.packages("dslabs")
 &gt; library(dslabs) 
@@ -331,16 +332,8 @@ In this solution ı first installed the dslabs library, if ı already have insta
 <p>&gt; sum(is.na(polls_us_election_2016))</p>
 <p>[1] 11604</p>
 <p>4-)Replace all NA values in the “polls_us_election_2016” data set as follows: For numeric columns, replace NA values with your birth year. For character or factor columns, replace NA values with your first name. store the modified data set as a new object:</p>
-<pre><code> polls_us_election_2016_modified &lt;- polls_us_election_2016 &gt;  
- &gt; birth_year &lt;- 2003   
- &gt; first_name &lt;- "yigit"  &gt;
- &gt; polls_us_election_2016_modified[] &lt;- lapply(polls_us_election_2016_modified, function(x) {     
- if (is.numeric(x)) { 
-  +         x[is.na(x)] &lt;- birth_year 
-  +     } else { 
-  +         x[is.na(x)] &lt;- first_name +     } 
-  +     return(x) 
-  + })</code></pre>
+<div class="sourceCode" id="cb4"><pre class="sourceCode 1 code-with-copy"><code class="sourceCode mandoc"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 
 </section>
